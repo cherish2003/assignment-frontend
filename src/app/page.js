@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <div className="container">
       <h1 className="text-4xl font-bold text-center mb-4">
-        BFHL Assignment Frontend
+        BFHL Full stack Assignment
       </h1>
       <Card className="p-4 mb-4">
         <form onSubmit={handleSubmit} className="mb-4">
